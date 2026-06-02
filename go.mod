@@ -13,6 +13,7 @@ require (
 	github.com/google/jsonschema-go v0.4.2
 	github.com/google/safehtml v0.1.0
 	github.com/google/uuid v1.6.0
+	github.com/gofrs/flock v0.13.0
 	github.com/gorilla/mux v1.8.1
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/modelcontextprotocol/go-sdk v1.4.1
